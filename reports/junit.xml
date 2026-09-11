@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" errors="0" time="18.857">
+  <testsuite name="add()" errors="0" failures="0" skipped="0" timestamp="2026-09-11T09:21:18" time="16.852" tests="4">
+    <testcase classname="add() adds two numbers correctly" name="add() adds two numbers correctly" time="0.004">
+    </testcase>
+    <testcase classname="add() handles negative numbers" name="add() handles negative numbers" time="0.001">
+    </testcase>
+    <testcase classname="GET / responds with a welcome message" name="GET / responds with a welcome message" time="0.055">
+    </testcase>
+    <testcase classname="GET /health responds with status ok" name="GET /health responds with status ok" time="0.007">
+    </testcase>
+  </testsuite>
+</testsuites>
